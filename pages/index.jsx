@@ -23,7 +23,7 @@ export default function HomepageTemplate({
 				</a>
 			</h1>
 			<div className={styles.onPantheon}>
-				<span>Decoupled Drupal on </span>
+				<span>Decoupled Next.js and Drupal on </span>
 				<Image
 					src="/pantheon.png"
 					alt="Pantheon Logo"
